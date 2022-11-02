@@ -1,0 +1,132 @@
+
+section{   
+    border: 2px solid black;
+    display:flex;
+    background-color: black;
+    position: sticky;
+    top:0%;
+    position: relative;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+.logo{
+    height: 40px;
+  position: absolute;
+  left: 100px;
+  
+}
+.search{
+    height:40px;
+    width:50px;
+    justify-content:right;
+}
+a{
+    text-decoration: none;
+    font-size:15px;
+    color:white;
+    padding:15px 16px;
+    
+    }
+
+    i{
+        color: white;
+position:absolute;
+right: 200px;
+bottom: auto;
+        font-size: 2rem;
+    }
+    i2{
+        color: white;
+position:absolute;
+right: 100px;
+bottom: auto;
+        font-size: 2rem;
+    }
+    
+    
+div{
+    border:0.5px solid whitesmoke;
+    background-color: black;
+}
+.page1{
+   
+    border:2px solid black;
+    background-color:black;
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+background-color: black;
+
+}
+.head1{
+    font-size: 50px;
+    font-style: bold;
+    color: darkorange;
+}
+.head2{
+    font-size: 50px;
+    font-style: bold;
+   color:yellow;
+}
+#image2{
+    float: left;
+    height: 398px;
+}
+#text{
+    text-align: right;
+   font-size: 40px;
+   color: white;
+}
+#intext{
+color: white;
+}
+#button{
+    background-color: yellow;
+    color: white;
+    height: 35px;
+    width:100px;
+}
+#heading2{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: bold;
+}
+.our{
+    color: white;
+}
+.menu{
+    color:orangered;
+}
+.static{
+    display: flex;
+    justify-content: center;
+   
+   
+    border: 3px solid black;
+}
+.photos{
+    height:250px;
+    width:280px;
+    border:2px solid white;
+    display:flex;
+    flex-direction: column;
+   
+    margin:2px; 
+}
+#coffeeimg{
+    height:50px;
+    width:75px;
+    /* display: flex; */
+   margin: auto;
+   display: block;
+  
+    
+}
+#tasty{
+    color: white;
+    text-align: center;
+}
+
